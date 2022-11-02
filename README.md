@@ -1,5 +1,6 @@
 ## SoloLearn
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/html">HTML</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/css">CSS</a>
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/responsive-web-design">Responsive Web Design</a>
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/javascript">JavaScript</a>
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/javascript-game-development">JavaScript Game Development</a>
