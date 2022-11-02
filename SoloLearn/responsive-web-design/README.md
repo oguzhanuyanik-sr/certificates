@@ -1,0 +1,2 @@
+## <a href="https://www.sololearn.com/certificates/CT-78LVAHOY">Certificate Link</a>
+<img src="https://github.com/oguzhanuyanik-sr/certificates/blob/main/SoloLearn/responsive-web-design/cert-CT-78LVAHOY.jpg?raw=true" />
