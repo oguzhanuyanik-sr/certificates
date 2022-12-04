@@ -1,0 +1,2 @@
+## <a href="https://www.sololearn.com/certificates/CT-BEEDDDMZ">Certificate Link</a>
+<img src="https://github.com/oguzhanuyanik-sr/certificates/blob/main/SoloLearn/sql/cert-CT-BEEDDDMZ.png?raw=true" />

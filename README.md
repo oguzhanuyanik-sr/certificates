@@ -9,6 +9,7 @@
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/react-redux">React and Redux</a>
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/angular-nest">Angular and NestJS</a>
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/php">PHP</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/sql">SQL</a>
 
 ## Turkcell Akademi
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/react">React 101</a>
