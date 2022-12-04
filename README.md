@@ -6,6 +6,7 @@
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/javascript-game-development">JavaScript Game Development</a>
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/jquery">jQuery</a>
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/react-redux">React and Redux</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/angular-nest">Angular and NestJS</a>
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/php">PHP</a>
 
 ## Turkcell Akademi
