@@ -1,0 +1,1 @@
+<img src="https://github.com/oguzhanuyanik-sr/certificates/blob/main/TurkcellAkademi/jquery/JQuery.png?raw=true" />

@@ -12,5 +12,10 @@
 * <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/SoloLearn/sql">SQL</a>
 
 ## Turkcell Akademi
-* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/react">React 101</a>
-* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/react">React 201</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/html">HTML</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/css">CSS</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/javascript">JavaScript</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/jquery">JQuery</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/react">React</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/nodejs">NodeJS</a>
+* <a href="https://github.com/oguzhanuyanik-sr/certificates/tree/main/TurkcellAkademi/mongodb">MongoDB</a>
